@@ -32,6 +32,13 @@ And made it an actual bottle:
  - <img width="736" height="857" alt="image" src="https://github.com/user-attachments/assets/4698d2cd-a471-486c-b708-fd8f06b00e1c" />
 I don't have a 3d model for the perfboards, so I took a breadboard one I found:-
  - <img width="1022" height="854" alt="image" src="https://github.com/user-attachments/assets/cd47b58b-180d-4273-8f51-1ef7cd2ab48e" />
-& made it into a perfboard shape
+& made it into a perfboard shape:
+ - <img width="1417" height="872" alt="image" src="https://github.com/user-attachments/assets/e66be393-8871-4707-8d59-25800ab79ccd" />
+
+I also need to make a removable clip to attach the circuitry and sensors to the bottle & remove them when needed, so I made a test bottle bracket (slightly oval to allow for clipping):
+ - <img width="931" height="695" alt="image" src="https://github.com/user-attachments/assets/8991ab4e-e514-43bd-8a47-949643d0faca" />
+ 
+I'm also 3d printing this right away, so that I have a working (or theoretically) working clip.
+
 
 
