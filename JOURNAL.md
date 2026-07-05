@@ -30,5 +30,8 @@ Now, that I have a plan in place, I need to get on Fusion & start working, so th
   - <img width="637" height="763" alt="image" src="https://github.com/user-attachments/assets/0044899a-ff9e-478b-95c1-238e88350482" />
 And made it an actual bottle:
  - <img width="736" height="857" alt="image" src="https://github.com/user-attachments/assets/4698d2cd-a471-486c-b708-fd8f06b00e1c" />
+I don't have a 3d model for the perfboards, so I took a breadboard one I found:-
+ - <img width="1022" height="854" alt="image" src="https://github.com/user-attachments/assets/cd47b58b-180d-4273-8f51-1ef7cd2ab48e" />
+& made it into a perfboard shape
 
 
