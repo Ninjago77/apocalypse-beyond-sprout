@@ -26,5 +26,7 @@ I have prepared a plan for the project. The circuitry will be composed of a pico
  - <img width="1618" height="2158" alt="20260704_140108" src="https://github.com/user-attachments/assets/742693af-dad7-4b18-b593-9d130a6697ae" />
 
 ## June 5th 2026 Morning
-Now, that I have a plan in place, I need to get on Fusion & start working
+Now, that I have a plan in place, I need to get on Fusion & start working, so that's what I did, I modeled the bottle:-
+  - <img width="637" height="763" alt="image" src="https://github.com/user-attachments/assets/0044899a-ff9e-478b-95c1-238e88350482" />
+
 
