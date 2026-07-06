@@ -25,7 +25,7 @@ I have prepared a plan for the project. The circuitry will be composed of a pico
  I also bent this header pin to make the display cold-swappable as its pretty fragile, and is prone to breaking:-
  - <img width="1618" height="2158" alt="20260704_140108" src="https://github.com/user-attachments/assets/742693af-dad7-4b18-b593-9d130a6697ae" />
 
-## June 5th 2026 Morning
+## June 5th 2026 Morning - 4 hours
 Now, that I have a plan in place, I need to get on Fusion & start working, so that's what I did, I modeled the bottle:-
   - <img width="637" height="763" alt="image" src="https://github.com/user-attachments/assets/0044899a-ff9e-478b-95c1-238e88350482" />
 And made it an actual bottle:
@@ -38,7 +38,21 @@ I don't have a 3d model for the perfboards, so I took a breadboard one I found:-
 I also need to make a removable clip to attach the circuitry and sensors to the bottle & remove them when needed, so I made a test bottle bracket (slightly oval to allow for clipping):
  - <img width="931" height="695" alt="image" src="https://github.com/user-attachments/assets/8991ab4e-e514-43bd-8a47-949643d0faca" />
  
-I'm also 3d printing this right away, so that I have a working (or theoretically) working clip.
+I'm also 3d printing this right away, so that I have a working (or theoretically) working clip. Here's what the assembly should look like:-
+ - <img width="676" height="832" alt="image" src="https://github.com/user-attachments/assets/513019e5-db34-4a09-8f25-5fde5702481d" />
+
+## June 5th 2026 Evening
+Here is the test print in Real Life:-
+ - <img width="1237" height="1649" alt="20260705_183206" src="https://github.com/user-attachments/assets/222f206e-7fbb-4fda-94db-72c56e552d6d" />
+Clips on well, sticks with friction, but it's pretty weak.
+So I redid it again:-
+ - <img width="1158" height="754" alt="image" src="https://github.com/user-attachments/assets/540bfad5-506d-4d80-9049-cbcddfda3722" />
+The one above is the new one:-
+ - <img width="544" height="660" alt="image" src="https://github.com/user-attachments/assets/7186e6fc-52e7-4d10-b799-609e35f8474b" />
+ 
+ And then I sent it off for printing, while I started designing the display's cover to prevent it from breaking
+
+
 
 
 
