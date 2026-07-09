@@ -41,7 +41,7 @@ I also need to make a removable clip to attach the circuitry and sensors to the 
 I'm also 3d printing this right away, so that I have a working (or theoretically) working clip. Here's what the assembly should look like:-
  - <img width="676" height="832" alt="image" src="https://github.com/user-attachments/assets/513019e5-db34-4a09-8f25-5fde5702481d" />
 
-## June 5th 2026 Evening
+## June 5th 2026 Evening - 6 hours
 Here is the test print in Real Life:-
  - <img width="1237" height="1649" alt="20260705_183206" src="https://github.com/user-attachments/assets/222f206e-7fbb-4fda-94db-72c56e552d6d" />
 Clips on well, sticks with friction, but it's pretty weak.
@@ -50,7 +50,46 @@ So I redid it again:-
 The one above is the new one:-
  - <img width="544" height="660" alt="image" src="https://github.com/user-attachments/assets/7186e6fc-52e7-4d10-b799-609e35f8474b" />
  
- And then I sent it off for printing, while I started designing the display's cover to prevent it from breaking
+ And then I sent it off for printing, while I started designing the display's cover to prevent it from breaking, or to be more specific, started designing the display first:-
+  - <img width="1314" height="809" alt="image" src="https://github.com/user-attachments/assets/d7aca5a9-298e-4da4-872b-04a9ceb64989" />
+
+By then, the print was done, so I tested it, and the "attaching force" was perfect & strong, but the holding friction was only on the ends & not throughout, so the clip would slide down with any weight:-
+ - <img width="1237" height="1650" alt="20260705_192213" src="https://github.com/user-attachments/assets/ca891f7f-9f6d-4a19-97ec-59dd5e7e570e" />
+
+So I modified the test bracket again, making it more of a circle than an eclipse, added a bunch of studs:-
+ - <img width="1192" height="750" alt="image" src="https://github.com/user-attachments/assets/d770223b-ff4d-40a8-9652-ae57c00d8bcf" />
+& sent it off for printing again.
+
+Then, I got to work on making the display's case:-
+ - <img width="959" height="697" alt="image" src="https://github.com/user-attachments/assets/f37e831a-b27d-4699-9e0a-7e16816e3aa3" />
+Since it was looking pretty good, & I was proud of it, I sent it to print.
+
+I got em both back, and the display case wasn't exactly nice, the studs were too thick & the rounded edges where also stopping it from fitting, so I need to redesign it:-
+ - <img width="1292" height="1722" alt="image" src="https://github.com/user-attachments/assets/6259a9d1-051a-4755-8fd4-89c391a5b0fb" />
+
+The new clip, was actually worse, less pads of contact and it wasn't even strong:-
+ - <img width="1772" height="1328" alt="image" src="https://github.com/user-attachments/assets/96e3d53c-a686-44a2-853c-851d774faa59" />
+
+## June 6th Morning 2026 - 6 hours
+
+ So I designed a new display case without the roundiness and pads & sent it of for printing:-
+  - <img width="1002" height="655" alt="image" src="https://github.com/user-attachments/assets/8e069d4c-8773-4432-81ab-269d1cc2c645" />
+
+ Now I have to redesign and stretch the seconf cilp model, & whiile I was doing that, the print was done:-
+  - <img width="1256" height="1675" alt="20260706_140234" src="https://github.com/user-attachments/assets/a1643ec5-2bb2-455c-b2cd-42d8fafa9f77" />
+  - <img width="1254" height="1672" alt="20260706_140346" src="https://github.com/user-attachments/assets/d3670e5d-bcbb-47cd-aa15-11e1163bb87c" />
+The top fit perfectly, the bottom needs to have a gap, but it was a success!
+
+I just completed the new bottle bracket, so here it is & I sent it for printing:-
+ - <img width="1057" height="642" alt="image" src="https://github.com/user-attachments/assets/352d0ac2-2a0e-4297-9b58-7047f15708ce" />
+
+And here is the new & friction fitted (hopefully), case:-
+ - <img width="841" height="594" alt="image" src="https://github.com/user-attachments/assets/e37a7b47-dd97-46cb-94cb-5d6401f8d1a8" />
+
+## June 6th Evening 2026 - 
+
+# REST OF JOURNAL TBD, WORK FOR June 6th, 7th & 8th 2026
+
 
 
 
