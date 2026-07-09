@@ -1,4 +1,4 @@
-# Apocalypse Beyond - SPROUT
+# Apocalypse Beyond - SPROUT | [Demo Video](https://github.com/Ninjago77/apocalypse-beyond-sprout/raw/refs/heads/main/videos/video%201.mp4)
 
 A plant/bamboo caregiver with a custom oc on a display & numerous temperature sensors to make caring for your greenery easier!
 
